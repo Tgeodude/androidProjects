@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Name1",
+    "lastName" : "LastName1",
+    "icon": "https://icon.png1",
+    "number": 87776665541
+  },
+  {
+    "firstName": "Name2",
+    "lastName" : "LastName2",
+    "icon": "https://icon.png2",
+    "number": 87776665542
+  },
+  {
+    "firstName": "Name3",
+    "lastName" : "LastName3",
+    "icon": "https://icon.png3",
+    "number": 87776665543
+  },
+  {
+    "firstName": "Name4",
+    "lastName" : "LastName4",
+    "icon": "https://icon.png4",
+    "number": 87776665544
+  }
+]
